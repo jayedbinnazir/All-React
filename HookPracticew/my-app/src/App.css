@@ -1,0 +1,15 @@
+.App {
+  background-color: brown;
+  border: 2px solid black;
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-evenly;
+  height: 300px;
+  align-items: center;
+  
+  
+}
+
+
+
